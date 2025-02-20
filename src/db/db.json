@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": "6ffe7ddf-ccbe-409b-a669-43e9595c1505",
+        "name": "Kevin Smith",
+        "phone": "1-845-670-6069",
+        "email": "Aliyah_Konopelski@hotmail.com",
+        "job": "Chief Solutions Specialist"
+    },
+    {
+        "id": "f3cbb433-0516-4fb7-8250-e557d727d607",
+        "name": "Elijah Shanahan-Abbott",
+        "phone": "677-504-5157 x372",
+        "email": "Santa_Medhurst@yahoo.com",
+        "job": "Chief Functionality Representative"
+    },
+    {
+        "id": "40fae2ba-7499-4dc8-9c90-23382cdd51fc",
+        "name": "Rosemary O'Keefe",
+        "phone": "1-701-456-3134 x0962",
+        "email": "Blanca75@hotmail.com",
+        "job": "Global Response Producer"
+    }
+]
